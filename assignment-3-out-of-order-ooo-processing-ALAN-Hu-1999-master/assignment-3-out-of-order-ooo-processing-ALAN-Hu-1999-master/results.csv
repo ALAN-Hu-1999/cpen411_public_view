@@ -1,0 +1,5 @@
+benchmark,task1_CPI,task2_CPI,task3_CPI_2,task3_CPI_4,task3_CPI_8,task4_CPI_1,task4_CPI_2,task4_CPI_4,task4_CPI_8
+fpppp,4.1873,,,,,,,,
+go,3.5708,,,,,,,,
+gcc,3.1468,,,,,,,,
+vpr,3.4774,,,,,,,,

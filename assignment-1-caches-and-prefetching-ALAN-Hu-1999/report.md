@@ -1,0 +1,3 @@
+Your report goes here.
+Intruction Cache
+    The 4-way set associative cache yields lower miss rate in all benchmarks. Its miss rate is much lower in benchmark "go.ss" and "fppp.ss" who are likely benefits from more associativity of the cache. The benchmarks "vpr.ss" and "gcc.ss" likely benefits more from bigger block size, so the 32byte 4-way associative cache's misses are not much lower than the one of 64 byte direct mapped cache.
